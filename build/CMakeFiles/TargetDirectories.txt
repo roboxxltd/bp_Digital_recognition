@@ -1,0 +1,15 @@
+/home/xx/code/KCf/build/CMakeFiles/rebuild_cache.dir
+/home/xx/code/KCf/build/CMakeFiles/edit_cache.dir
+/home/xx/code/KCf/build/CMakeFiles/opencv_test.dir
+/home/xx/code/KCf/build/angle_solve/CMakeFiles/rebuild_cache.dir
+/home/xx/code/KCf/build/angle_solve/CMakeFiles/edit_cache.dir
+/home/xx/code/KCf/build/angle_solve/CMakeFiles/basic_pnp.dir
+/home/xx/code/KCf/build/camera/CMakeFiles/rebuild_cache.dir
+/home/xx/code/KCf/build/camera/CMakeFiles/edit_cache.dir
+/home/xx/code/KCf/build/camera/CMakeFiles/capture.dir
+/home/xx/code/KCf/build/serial/CMakeFiles/rebuild_cache.dir
+/home/xx/code/KCf/build/serial/CMakeFiles/edit_cache.dir
+/home/xx/code/KCf/build/serial/CMakeFiles/serial.dir
+/home/xx/code/KCf/build/bpPredict/CMakeFiles/rebuild_cache.dir
+/home/xx/code/KCf/build/bpPredict/CMakeFiles/edit_cache.dir
+/home/xx/code/KCf/build/bpPredict/CMakeFiles/bp.dir

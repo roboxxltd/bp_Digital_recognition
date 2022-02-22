@@ -1,0 +1,43 @@
+[
+{
+  "directory": "/home/xx/code/KCf/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/usr/include/eigen3 -I/usr/src/tensorrt/include -I/usr/src/tensorrt/samples/common -I/usr/local/cuda/include -I../basic_pnp -I../capture -I../serial -I../bp -isystem /usr/local/include/opencv4  -Wall -Wextra -Wno-deprecated -O3   -std=gnu++17 -o CMakeFiles/opencv_test.dir/TRTModule.cpp.o -c /home/xx/code/KCf/TRTModule.cpp",
+  "file": "/home/xx/code/KCf/TRTModule.cpp"
+},
+
+{
+  "directory": "/home/xx/code/KCf/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/usr/include/eigen3 -I/usr/src/tensorrt/include -I/usr/src/tensorrt/samples/common -I/usr/local/cuda/include -I../basic_pnp -I../capture -I../serial -I../bp -isystem /usr/local/include/opencv4  -Wall -Wextra -Wno-deprecated -O3   -std=gnu++17 -o CMakeFiles/opencv_test.dir/kcf.cpp.o -c /home/xx/code/KCf/kcf.cpp",
+  "file": "/home/xx/code/KCf/kcf.cpp"
+},
+
+{
+  "directory": "/home/xx/code/KCf/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/usr/include/eigen3 -I/usr/src/tensorrt/include -I/usr/src/tensorrt/samples/common -I/usr/local/cuda/include -I../basic_pnp -I../capture -I../serial -I../bp -isystem /usr/local/include/opencv4  -Wall -Wextra -Wno-deprecated -O3   -std=gnu++17 -o CMakeFiles/opencv_test.dir/main.cpp.o -c /home/xx/code/KCf/main.cpp",
+  "file": "/home/xx/code/KCf/main.cpp"
+},
+
+{
+  "directory": "/home/xx/code/KCf/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/eigen3 -I/usr/src/tensorrt/include -I/usr/src/tensorrt/samples/common -I/usr/local/cuda/include -I../basic_pnp -isystem /usr/local/include/opencv4  -Wall -Wextra -Wno-deprecated -O3   -std=gnu++17 -o angle_solve/CMakeFiles/basic_pnp.dir/basic_pnp.cpp.o -c /home/xx/code/KCf/angle_solve/basic_pnp.cpp",
+  "file": "/home/xx/code/KCf/angle_solve/basic_pnp.cpp"
+},
+
+{
+  "directory": "/home/xx/code/KCf/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/usr/include/eigen3 -I/usr/src/tensorrt/include -I/usr/src/tensorrt/samples/common -I/usr/local/cuda/include -I../basic_pnp -I../capture -isystem /usr/local/include/opencv4  -Wall -Wextra -Wno-deprecated -O3   -std=gnu++17 -o camera/CMakeFiles/capture.dir/mv_video_capture.cpp.o -c /home/xx/code/KCf/camera/mv_video_capture.cpp",
+  "file": "/home/xx/code/KCf/camera/mv_video_capture.cpp"
+},
+
+{
+  "directory": "/home/xx/code/KCf/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/eigen3 -I/usr/src/tensorrt/include -I/usr/src/tensorrt/samples/common -I/usr/local/cuda/include -I../basic_pnp -I../capture -I../serial -isystem /usr/local/include/opencv4  -Wall -Wextra -Wno-deprecated -O3   -std=gnu++17 -o serial/CMakeFiles/serial.dir/uart_serial.cpp.o -c /home/xx/code/KCf/serial/uart_serial.cpp",
+  "file": "/home/xx/code/KCf/serial/uart_serial.cpp"
+},
+
+{
+  "directory": "/home/xx/code/KCf/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/usr/include/eigen3 -I/usr/src/tensorrt/include -I/usr/src/tensorrt/samples/common -I/usr/local/cuda/include -I../basic_pnp -I../capture -I../serial -I../bp -isystem /usr/local/include/opencv4  -Wall -Wextra -Wno-deprecated -O3   -std=gnu++17 -o bpPredict/CMakeFiles/bp.dir/net.cpp.o -c /home/xx/code/KCf/bpPredict/net.cpp",
+  "file": "/home/xx/code/KCf/bpPredict/net.cpp"
+}
+]

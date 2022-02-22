@@ -1,0 +1,158 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "angle_solve",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "angle_solve",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "camera",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "camera",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "serial",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "serial",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "bpPredict",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "bpPredict",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "opencv_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "basic_pnp::@2dffc6ee68763ec85955",
+					"jsonFile" : "target-basic_pnp-Release-e14facbbd9ef1a8aa613.json",
+					"name" : "basic_pnp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "bp::@ed466968f49558fe7142",
+					"jsonFile" : "target-bp-Release-624c7d9210318b912883.json",
+					"name" : "bp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "capture::@f1ff328599b7b689f34c",
+					"jsonFile" : "target-capture-Release-824192172ba57da8a6b0.json",
+					"name" : "capture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_test-Release-0ef1ebd2dcc0f78c9f1d.json",
+					"name" : "opencv_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "serial::@f50a2cc8b0e9321cdd57",
+					"jsonFile" : "target-serial-Release-ec430b5cdc400806a29c.json",
+					"name" : "serial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xx/code/KCf/build",
+		"source" : "/home/xx/code/KCf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
